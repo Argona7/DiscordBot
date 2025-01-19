@@ -136,15 +136,19 @@ An automated script/code made by @Argona7 on [Python 3.11](https://www.python.or
    ```sh
    pip install -r requirements.txt
    ```
-5. Make .env file available
+5. Install Browsers
+   ```sh
+   playwright install
+   ```
+6. Make .env file available
    ```sh
    copy .env-example .env
    ```
-6. Edit .env file, as your will
+7. Edit .env file, as your will
    ```sh
    notepad .env
    ```
-7. Run after all successful steps are done
+8. Run after all successful steps are done
    ```sh
    python main.py
    ```
@@ -167,15 +171,19 @@ An automated script/code made by @Argona7 on [Python 3.11](https://www.python.or
    ```sh
    pip3 install -r requirements.txt
    ```
-5. Make .env file available
+5. Install Browsers
+   ```sh
+   playwright install
+   ```
+6. Make .env file available
    ```sh
    cp .env-example .env
    ```
-6. Edit .env file, as your will
+7. Edit .env file, as your will
    ```sh
    nano .env
    ```
-7. Run after all successful steps are done
+8. Run after all successful steps are done
    ```sh
    python3 main.py
    ```

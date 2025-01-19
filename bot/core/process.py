@@ -101,14 +101,11 @@ async def start(profile: tuple[str, ...], db: ProfileDatabase,semaphore: asyncio
 
                 except playwright.async_api.TimeoutError:
                     time = await discord_page.locator('//html/body/div[1]/div[2]/div[1]/div[1]/div/div[2]/div/div/div/div/div[2]/div[2]/main/div[2]/div/div[2]/div/span').inner_text()
-                    # hours = discord_page.locator().inner_text()
-                    # minutes = discord_page.locator().inner_text()
-                    # seconds = discord_page.locator().inner_text()
                     logger.warning(f"You have received a ban for sending messages, it expires: {time}")
                     await context.close()
 
                 await context.close()
-                # await uniswap(context, name, password)
+
 
             except Exception as e:
                 logger.error(f"{name} | {e}")

@@ -245,5 +245,5 @@ More Info on [LICENSE](https://github.com/m3taphor/TinyVerse/blob/main/LICENSE) 
 [telegram-shield]: https://img.shields.io/badge/Telegram-29a9eb?style=for-the-badge&logo=telegram&logoColor=white
 [telegram-url]: https://t.me/ArgonaResearch
 [product-screenshot]: https://i.ibb.co/nQpckyZ/Discord.png
-[Python.com]: https://img.shields.io/badge/python%203.10-3670A0?style=for-the-badge&logo=python&logoColor=ffffff
+[Python.com]: https://img.shields.io/badge/python%203.11-3670A0?style=for-the-badge&logo=python&logoColor=ffffff
 [Python-url]: https://www.python.org/downloads/release/python-3110/

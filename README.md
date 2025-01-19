@@ -29,14 +29,13 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#env-management">Env Management</a></li>
-        <li><a href="#stars-env-settings">Stars Env Settings</a></li>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#quick-start">Quick Start</a></li>
         <li><a href="#manual-installation">Manual Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#account-management">Account Management</a></li>
+    <li><a href="#configuration">Account Management</a></li>
     <li><a href="#license">License</a></li>
   </ol>
 </details>
@@ -239,4 +238,4 @@ More Info on [LICENSE](https://github.com/m3taphor/TinyVerse/blob/main/LICENSE) 
 [telegram-url]: https://t.me/ArgonaResearch
 [product-screenshot]: https://i.ibb.co/nQpckyZ/Discord.png
 [Python.com]: https://img.shields.io/badge/python%203.10-3670A0?style=for-the-badge&logo=python&logoColor=ffffff
-[Python-url]: https://www.python.org/downloads/release/python-3100/
+[Python-url]: https://www.python.org/downloads/release/python-3110/

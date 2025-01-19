@@ -5,7 +5,6 @@ import random
 
 from web3 import Web3
 from eth_keys import keys
-# from eth_account import Account
 from datetime import datetime
 from typing import Union, Tuple
 from bot.utils.logger import logger

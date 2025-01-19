@@ -204,10 +204,10 @@ After the script is successfully installed, you will see four options:
 
 **You must be a member of the [Pixel Penguins channel](https://discord.gg/CEUu4efxg7) with verification passed!**
 
-First you need to register your accounts, use **Register profiles** to do this
-If you use proxy, check ([#configuration](#configuration))
-Second you need to run the bot with the **headless mod turned off** to log into discord accounts
-After that you can enable the headless mod at your discretion, the script will send messages to the Pixel Penguins Chat
+First you need to register your accounts, use **Register profiles** to do this.
+If you use proxy, check ([#configuration](#configuration)).
+Second you need to run the bot with the **headless mod turned off** to log into discord accounts.
+After that you can enable the headless mod at your discretion, the script will send messages to the Pixel Penguins Chat.
 
 
 
@@ -216,7 +216,7 @@ After that you can enable the headless mod at your discretion, the script will s
 ## Configuration
 1. Accounts Setup 🔒
 
-   Once you have registered accounts, arrange their addresses or private keys in `data/farm.txt`
+   Once you have registered accounts, arrange their addresses or private keys in `data/farm.txt`,  
    
    ![image](https://i.ibb.co/w7ybXMn/accounts-farm.png)
 
